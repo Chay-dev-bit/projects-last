@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <img src="coffee-cup.png" alt="kopi" class="size-10 w-8 h-8">
             </h1>
         <nav class="text-base gap-4 hidden md:flex">
-            <a class="menu-text text-white" href="index.php">Home</a>
+            <a class="menu-text text-white" href="index.html">Home</a>
             <a class="menu-text text-white" href="dashboard.php">Dashboard</a>
             <a class="menu-text text-white" href="login.php">Login</a>
         </nav>
